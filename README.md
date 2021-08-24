@@ -1,5 +1,3 @@
-# GML-Game-Projects
-
 ## Finished Projects
 Download Zip and Enjoy the game
 
