@@ -1,7 +1,7 @@
-## GML-Game-Projects
+# GML-Game-Projects
 
-# Finished Projects
+## Finished Projects
 Download Zip and Enjoy the game
 
-# Projects
+## Projects
 Install GameMaker2 to load the project and start editing it
