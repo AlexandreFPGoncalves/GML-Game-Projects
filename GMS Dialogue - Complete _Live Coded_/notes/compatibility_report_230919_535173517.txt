@@ -1,0 +1,56 @@
+Windows NSIS Installer Script has been set to default due to changes in GameMaker Studio 2
+Converting GML script: ${project_dir}\scripts\scrDialogue\scrDialogue.gml
+Converted builtin - line 3: view_wport[view_current] -> __view_get( e__VW.WPort, view_current )
+Converted builtin - line 3: view_hport[view_current] -> __view_get( e__VW.HPort, view_current )
+Converted description /// @description Begin dialogue between player and messageGiver
+
+Converting GML script: ${project_dir}\scripts\scrShowChoices\scrShowChoices.gml
+Converted builtin - line 4: view_hport[view_current] -> __view_get( e__VW.HPort, view_current )
+Converted description /// @description Create choices for player
+
+Converting GML script: ${project_dir}\objects\objChoiceBox\Create_0.gml
+Converted description /// @description Variables
+
+Converting GML script: ${project_dir}\objects\objChoiceBox\Draw_0.gml
+Converted description /// @description Draw given text
+
+Converting GML script: ${project_dir}\objects\objDialogueBox\Create_0.gml
+Converted description /// @description Variables
+
+Converting GML script: ${project_dir}\objects\objDialogueBox\Alarm_0.gml
+Converted description /// @description Forward displayed text
+
+Converting GML script: ${project_dir}\objects\objDialogueBox\Step_0.gml
+Converted description /// @description Move through the dialogue
+
+Converting GML script: ${project_dir}\objects\objDialogueBox\Draw_0.gml
+Converted description /// @description Draw given text
+
+Converting GML script: ${project_dir}\objects\objRobot\Create_0.gml
+Converted description /// @description NPC Variables
+
+Converting GML script: ${project_dir}\objects\objSara\Create_0.gml
+Converted description /// @description Player Variables
+
+Converting GML script: ${project_dir}\objects\objSara\Alarm_0.gml
+Converted description /// @description Sets isTalking
+
+Converting GML script: ${project_dir}\objects\objSara\Step_0.gml
+Converted description /// @description Movement & Animation
+
+Converting GML script: ${project_dir}\objects\objDialogueSystem\Create_0.gml
+Converted description /// @description Variables
+
+Converting GML script: ${project_dir}\objects\objDialogueSystem\Alarm_0.gml
+Converted description /// @description Code
+
+Converting GML script: ${project_dir}\objects\objDialogueSystem\Step_0.gml
+Converted description /// @description Choosing a choice
+
+Game speed set to 60
+Added compatibility script 'instance/instance_create.gml'
+Added compatibility script 'object/object_get_depth.gml'
+Added compatibility script 'view/__view_get.gml'
+Added compatibility script 'view/__init_view.gml'
+Added compatibility script '__init_global.gml'
+Added compatibility script '__global_object_depths.gml'

@@ -1,0 +1,9 @@
+image_index = 0
+image_xscale = 4
+image_yscale = 4
+destruir = 0
+x = room_width / 2
+global.playerturn = false
+global.btnstartx = x
+global.btnstarty = y
+global.contador = 0

@@ -1,0 +1,1 @@
+destino = obj_jogar.destino;
